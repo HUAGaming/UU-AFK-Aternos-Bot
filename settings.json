@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK_TheDragonNest",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "thedragonnest211",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "thedragonnest.aternos.me",
+    "port": 56449,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm Dragon Nest Keeper",
+        "I will keep this server Active, and Alive!"
       ]
     },
     "chat-log": true,
